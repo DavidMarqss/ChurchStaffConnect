@@ -7,13 +7,13 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Equipe e Tema  Entrega: 16/08/23
-- [x] Separar Funções Entrega: 18/08/23 
-- [x] Cronograma e Escopo Entrega: 30/08/23
-- [ ] Prototipação  Entrega: 15/09/23
-- [ ] MVP Entrega: Entrega: 15/09/23
-- [ ] Criação do Banco de Dados Entrega: 25/09/23
-- [ ] Desenvolvimento Back-end Entrega: 18/10/23
-- [ ] Desenvolvimento Front-end Entrega: 18/10/23
-- [ ] Integração Entrega: 05/11/23
-- [ ] Validação Final Entrega: 10/11/23
+- [x] Equipe e Tema | Entrega: 16/08/23
+- [x] Separar Funções | Entrega: 18/08/23 
+- [x] Cronograma e Escopo | Entrega: 30/08/23
+- [ ] Prototipação | Entrega: 15/09/23
+- [ ] MVP | Entrega: 15/09/23
+- [ ] Criação do Banco de Dados | Entrega: 25/09/23
+- [ ] Desenvolvimento Back-end | Entrega: 18/10/23
+- [ ] Desenvolvimento Front-end | Entrega: 18/10/23
+- [ ] Integração Entrega: | 05/11/23
+- [ ] Validação Final | Entrega: 10/11/23
