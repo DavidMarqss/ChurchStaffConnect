@@ -4,7 +4,7 @@
 > Projeto destinado ao gerenciamento/cadastramento de ministros da Arquidiocese de Sant'Ana de Botucatu.
 
 ### Matriz de Habilidades e Mapa de Tecnologias
-<img src="/img/Mapa_de_Tecnologia.png">
+<img src="img/Mapa de Tecnologia.png">
 Pode ser visualizado no link: <https://miro.com/app/board/uXjVMqUpsuY=/?share_link_id=310142733972>
 
 ### Cronograma
