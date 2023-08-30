@@ -7,7 +7,7 @@
 <img src="img/Mapa de Tecnologia.png">
 <img src="img/Matriz de Habilidade.png">
 
-PTambém pode ser visualizado no link: <https://miro.com/app/board/uXjVMqUpsuY=/?share_link_id=310142733972>
+Também pode ser visualizado no link: <https://miro.com/app/board/uXjVMqUpsuY=/?share_link_id=310142733972>
 
 ### Cronograma
 
