@@ -1,7 +1,10 @@
 # PI_4_Termo
-# Nome do projeto
+# Church Staff Connect
 
 > Projeto destinado ao gerenciamento/cadastramento de ministros da Arquidiocese de Sant'Ana de Botucatu.
+
+### Matriz de Habilidades e Mapa de Tecnologias
+Pode ser visualizado no link: <https://miro.com/app/board/uXjVMqUpsuY=/?share_link_id=310142733972>
 
 ### Cronograma
 
